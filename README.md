@@ -7,7 +7,6 @@ However, it's important to note that Coffee bot is a bit of a naughty robot. It 
 
 ![Snipaste_2024-02-16_21-52-06](https://github.com/jessica-z6/coffeebot/assets/145166338/17963797-b90e-4c86-9d33-92a755f3f97b)
 ![Snipaste_2024-02-16_21-52-33](https://github.com/jessica-z6/coffeebot/assets/145166338/2a457a43-3d05-4bb8-9ac2-f87adf352871)
-![Snipaste_2024-02-16_21-52-59](https://github.com/jessica-z6/coffeebot/assets/145166338/4f815028-6d0d-4729-a92d-9b560e2e24fd)
 
 
 https://github.com/jessica-z6/coffeebot/assets/145166338/c6819a80-4f8d-433f-afe7-f35340773b00
