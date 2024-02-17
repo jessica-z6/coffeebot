@@ -11,6 +11,6 @@ chat with Coffee bot
 
 ![资源 1-100](https://github.com/jessica-z6/coffeebot/assets/145166338/bee8408b-8e03-42a0-ae1d-d58b991f5a4f)
 
-![Snipaste_2024-02-16_22-02-22](https://github.com/jessica-z6/coffeebot/assets/145166338/e3b99a62-d05f-41ae-be7d-367ce88a0a05)
+![Snipaste_2024-02-16_23-22-15](https://github.com/jessica-z6/coffeebot/assets/145166338/018f0fb8-5413-4cf1-b2fa-7e05cd5a8b46)
 
-I wanted to add the two options “Yes” and “No” after "Milk Tea?", but I encountered some problems when writing the code, so I simplified the logic.
+I wanted to add the two options “Yes” and “No” after "Milk Tea?", but I encountered some problems when writing the code, the bottom for "Milk Tea?" appear at the first chat, so I simplified the logic.
