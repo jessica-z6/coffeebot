@@ -5,7 +5,9 @@ Coffee Bot is a small robot that offers simple small talk, activated by the keyw
 However, it's important to note that Coffee bot is a bit of a naughty robot. It loves coffee and enjoys making jokes. Additionally, because it originates from Asia, it assumes that everyone chatting with it is lactose intolerant:)
 
 https://github.com/jessica-z6/coffeebot/assets/145166338/c6819a80-4f8d-433f-afe7-f35340773b00
+
 chat with Coffee bot
+
 
 
 
