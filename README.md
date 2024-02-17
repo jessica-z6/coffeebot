@@ -16,8 +16,9 @@ chat with Coffee bot
 
 
 
-
 ![资源 1-100](https://github.com/jessica-z6/coffeebot/assets/145166338/bee8408b-8e03-42a0-ae1d-d58b991f5a4f)
+Script for the chat
+
 
 ![Snipaste_2024-02-16_23-22-15](https://github.com/jessica-z6/coffeebot/assets/145166338/018f0fb8-5413-4cf1-b2fa-7e05cd5a8b46)
 
