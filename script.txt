@@ -1,6 +1,5 @@
 Do you like coffee?
 	Yes, With milk and syrup?
-		Yes, Ppppprrrrrrrrrrtttt!
-		No, K kind and healthy black coffee lover;)
-	No, Bye I don't talk to humans who don't have coffee 
-  Anything else, Milk Tea?
+		Yes, Hope you're not lactose intolerant:),False
+		No, K kind and healthy black coffee lover;),False
+	No, So you like tea or something else? There is a place for all drinkers. Will you let me know your answer?,True
