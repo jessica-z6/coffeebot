@@ -15,6 +15,11 @@ Coffee Bot is not just about coffee; it's about creating a moment of connection.
 
 
 
+https://github.com/jessica-z6/coffeebot/assets/145166338/45ddd933-660a-4b72-bcb7-46c8d43faa61
+
+
+
+
 
 # Previous vision
 Coffee Bot is a small robot that offers simple small talk, activated by the keyword $coffeechat. You can engage in simple chats with it through different button options. 
